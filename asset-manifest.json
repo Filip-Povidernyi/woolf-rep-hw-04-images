@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/woolf-rep-hw-04-images/static/css/main.ae99af3c.css",
+    "main.js": "/woolf-rep-hw-04-images/static/js/main.3802b972.js",
+    "index.html": "/woolf-rep-hw-04-images/index.html",
+    "main.ae99af3c.css.map": "/woolf-rep-hw-04-images/static/css/main.ae99af3c.css.map",
+    "main.3802b972.js.map": "/woolf-rep-hw-04-images/static/js/main.3802b972.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae99af3c.css",
+    "static/js/main.3802b972.js"
+  ]
+}
